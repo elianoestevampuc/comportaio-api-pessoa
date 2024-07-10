@@ -16,10 +16,9 @@ API para manter operações de cadastro da pessoa na aplicação.
 
 **Comporta.io** tem como objetivo resolver a dor de pessoas que estão dentro do espectro autista nível 2 e 3. Essa dor está relacionada a identificação de possíveis mudanças de comportamentos.
 
-Software foi desenvolvido para o MVP da Sprint Arquitetura de Software da pós graduação de Engenharia de Software PUC-Rio.
-Apresentação em: https://youtu.be/6cihGNLlNhE
+A aplicação foi desenvolvida para o MVP da Sprint Arquitetura de Software da pós graduação de Engenharia de Software PUC-Rio.
 
-> ⚠️ O frontend que consome essa API, pode ser acessado em: [comportaio-frontend](https://github.com/elianoestevampuc/comportaio-frontend).
+> ⚠️ O front-end que consome essa API, pode ser acessado em: [comportaio-frontend](https://github.com/elianoestevampuc/comportaio-frontend).
 
 ## Repositório github
 https://github.com/elianoestevampuc/comportaio-api-pessoa.git
