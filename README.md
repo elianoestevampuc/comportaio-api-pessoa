@@ -19,7 +19,7 @@ API para manter operações de cadastro da pessoa na aplicação.
 Software foi desenvolvido para o MVP da Sprint Arquitetura de Software da pós graduação de Engenharia de Software PUC-Rio.
 Apresentação em: https://youtu.be/6cihGNLlNhE
 
-> ⚠️ O frontend que consome essa API pode ser acessado em: [comportaio-frontend](../comportaio-frontend/).
+> ⚠️ O frontend que consome essa API, pode ser acessado em: [comportaio-frontend](https://github.com/elianoestevampuc/comportaio-frontend).
 
 ## Repositório github
 https://github.com/elianoestevampuc/comportaio-api-pessoa.git
@@ -37,7 +37,7 @@ docker-compose up
 ```
 
 ### Em conjunto com a aplicação (recomendado)
-Para executar todas as API's da aplicação, acesse o diretório do frontend, no caso [comportaio-frontend](../comportaio-frontend/) e execute o comando :
+Para executar todas as API's da aplicação, acesse o diretório do frontend, no caso [comportaio-frontend](https://github.com/elianoestevampuc/comportaio-frontend) e execute o comando :
 
 ```
 docker-compose up
