@@ -1,0 +1,7 @@
+version: "2.4"
+services:
+  pessoa:
+    container_name: comportaio-api-pessoa
+    image: elianoestevam/comportaio-api-pessoa:1.0
+    ports:
+      - 8000:8000
