@@ -24,6 +24,9 @@ Apresentação em: https://youtu.be/6cihGNLlNhE
 ## Repositório github
 https://github.com/elianoestevampuc/comportaio-api-pessoa.git
 
+## Documentação - Swagger
+http://localhost:8000/openapi/swagger
+
 ## Dependência
 Docker
 
@@ -43,5 +46,5 @@ Para executar todas as API's da aplicação, acesse o diretório do frontend, no
 docker-compose up
 ```
 
-### URL de execução
-A API roda na url [http://localhost:8000](http://localhost:8000)
+## URL API
+http://localhost:8000
