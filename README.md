@@ -40,7 +40,7 @@ docker-compose up
 ```
 
 ### Em conjunto com a aplicação (recomendado)
-Para executar todas as API's da aplicação, acesse o diretório do frontend, no caso [comportaio-frontend](https://github.com/elianoestevampuc/comportaio-frontend) e execute o comando :
+Para executar todas as API's da aplicação e front-end, acesse o diretório [comportaio](https://github.com/elianoestevampuc/comportaio) e execute o comando :
 
 ```
 docker-compose up
