@@ -6,7 +6,7 @@ RUN apt-get update && apt-get upgrade -y
 
 RUN apt-get install python3 python3-pip python3-venv git -y
 
-RUN git clone https://github.com/elianoestevampuc/comportaio-api-pessoa.git /opt/comportaio/
+RUN git clone -b main https://github.com/elianoestevampuc/comportaio-api-pessoa.git /opt/comportaio/
 
 WORKDIR /opt/comportaio/
 
